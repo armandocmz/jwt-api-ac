@@ -4,7 +4,7 @@ Test Project
 https://start.spring.io/
 
 ## `Spring Initializr `
-http:https://start.spring.io/
+https://start.spring.io/
 
 # DB en memoria H2 con Spring Boot
 
@@ -41,8 +41,6 @@ server.servlet.context-path=/food
 http://localhost:8080/contexto/h2-console/
 contexto se reemplaza por el que se pone en path
 <img width="527" height="461" alt="image" src="https://github.com/user-attachments/assets/1b3128eb-24a4-4c00-9088-bb6db755517c" />
-
-![h2](https://gist.github.com/user-attachments/assets/0a0d7f7b-d306-4653-9e55-15b218cb5862)
  
 ## **IMPORTANTE: El JDBC URL debe ser el mismo que el del properties, o sino, NO carga las tablas!**
 
