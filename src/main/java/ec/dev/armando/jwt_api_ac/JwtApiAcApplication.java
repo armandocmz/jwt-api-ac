@@ -11,9 +11,9 @@ public class JwtApiAcApplication {
 		SpringApplication.run(JwtApiAcApplication.class, args);
 
         System.out.println("Hola");
-        Food fo = new Food(1L,"Maiz",33);
+        //Food fo = new Food(1L,"Maiz",33);
 
-        System.out.println("valor de fo "+fo.getName());
+        //System.out.println("valor de fo "+fo.getName());
 
 
 
