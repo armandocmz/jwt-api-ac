@@ -10,7 +10,7 @@ public class JwtApiAcApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(JwtApiAcApplication.class, args);
 
-        System.out.println("Hola");
+
         //Food fo = new Food(1L,"Maiz",33);
 
         //System.out.println("valor de fo "+fo.getName());
